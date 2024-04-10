@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kJ6ceCozAmzF6VCR87tMSlo9gUfzSV+az2alX9IzLDQ=",
+  "Source": "Jenkins-pipeline",
+  "BasePath": "_content/Jenkins-pipeline",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
